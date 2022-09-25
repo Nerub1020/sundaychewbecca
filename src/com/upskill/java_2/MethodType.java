@@ -30,7 +30,7 @@
 	}
 	// static method
 	public static void  weeklyIncomeStatic() {
-	int weeklyIncome=hourlyIncome*40;
+	int weeklyIncome=hourlyIncome*41;
 	System.out.println("My Weekly Income="+weeklyIncome);
 			
 } 
