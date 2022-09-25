@@ -3,7 +3,7 @@
 
        public class IfElseStatement {
 
-	   public static int age=9;
+	   public static int age=8;
 		
 	
 
