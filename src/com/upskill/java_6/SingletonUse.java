@@ -4,7 +4,7 @@ public class SingletonUse {
 
 	
 	public static void main(String[] args) {
-		Singleton obj =Singleton.getInstance();
+		Singleton Obj =Singleton.getInstance();
 		
 		Singleton.upskill();
 

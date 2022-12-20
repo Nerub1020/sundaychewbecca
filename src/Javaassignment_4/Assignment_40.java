@@ -1,6 +1,6 @@
 package Javaassignment_4;
 
-public class Assignment_4 {
+public class Assignment_40 {
 
 	//4.	Write a method to check leap year
 	

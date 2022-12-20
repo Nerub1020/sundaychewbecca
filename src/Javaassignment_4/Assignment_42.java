@@ -1,13 +1,12 @@
 package Javaassignment_4;
 
-public class Assignment_2 {
+public class Assignment_42 {
 
 //2.	Write a method which will reverse a string 
 
-	public static void main(String[] args) {
+	public static void main(String[] args, String input) {
 		
-		// getBytes() method to convert string  
-        // into bytes[]. 
+		
         byte [] strAsByteArray = input.getBytes(); 
   
         byte [] result =  new byte [strAsByteArray.length]; 

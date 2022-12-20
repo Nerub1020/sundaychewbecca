@@ -1,3 +1,5 @@
+package Javaassignment_3;
+
 
 		 
 /* Problem 01.	Write a class name BankAccount which has savings and checking class.     
@@ -12,18 +14,18 @@
 															f.	new amount after deposit: 26000
 															g.	new amount after withdrawal: 23000     */
  
-package com.talentech.assignment3;
+
 
 import java.util.Scanner;
 
-public class Problem1 {
+public class Assignment_31 {
 
 	String accname;
 	float amount;
 	boolean bool;
 	Scanner s = new Scanner(System.in);
 
-	Problem1(String accname) {
+	Assignment_31(String accname) {
 		this.accname = accname;
 		System.out.println("Account name: " + this.accname);
 		System.out.print("Please Enter the initial ammount for this " + accname + " account: ");
@@ -68,14 +70,14 @@ public class Problem1 {
 	}
 }
 
-class Savings extends Problem1 {
+class Savings extends Assignment_31 {
 
 	Savings() {
 		super("Savings");
 	}
 }
 
-class Checking extends Problem1 {
+class Checking extends Assignment_31 {
 
 	Checking() {
 		super("Checking");

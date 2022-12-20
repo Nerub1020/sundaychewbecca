@@ -2,7 +2,7 @@ package Javaassignment_4;
 
 import java.util.Arrays;
 
-public class Assignment_5 {
+public class Assignment_50 {
 
 	//5.	function to check whether two strings are anagram of each other
 

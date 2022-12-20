@@ -1,6 +1,6 @@
 package Javaassignment_4;
 
-public class Assignment_3 {
+public class Assignment_43 {
 
 	//3.	Write a method which return count of duplicate value from a array?
 	public static void main(String[] args) {

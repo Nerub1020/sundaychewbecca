@@ -1,6 +1,6 @@
 package Javaassignment_4;
 
-public class Assignment_1 {
+public class Assignment_41 {
 	/*1.	Write a USER PROGRAM using encapsulation that contains the username, password, email, first and last names of a user of our application. Display the user information in console output. */
 	
 	private String username = "Juel";
